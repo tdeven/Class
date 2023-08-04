@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Documents</tittl>
+</head>
+<h1>Welcome to first git program</h1>
+<hr>
+<body>
+
+</body>
+</html>
+
